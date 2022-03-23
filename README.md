@@ -39,5 +39,3 @@ isHttps: true
 [自动初始化gitment](https://draveness.me/git-comments-initialize)
 
 
-注意：使用本主题请仔细查看[black-blue Hexo使用介绍](http://geeksblog.cc/hexo-theme.html)
-
